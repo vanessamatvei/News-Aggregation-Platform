@@ -25,3 +25,6 @@ Our solution is **News2Go**, a news aggregator platform that delivers **diverse 
 
 This project was the **final pitched idea** for a **local democracy hackathon in October 2024**.  
 Hackathon team name: *ReLU* ❤️
+
+---
+P.S This is part 1 of the code (React-based implementation), part 2 (static prototype) is in another repo (working on changing this).
