@@ -6,7 +6,7 @@ Our solution is **News2Go**, a news aggregator platform that delivers **diverse 
 
 ---
 
-## 🚀 Features
+## Features
 - **Search & Filter**: Find articles on specific topics quickly.  
 - **Diverse Sources**: Articles pulled from multiple outlets with varying political biases.  
 - **Bias Alerts**: Clearly flags when different outlets report the same facts but with different perspectives.  
@@ -20,6 +20,8 @@ Our solution is **News2Go**, a news aggregator platform that delivers **diverse 
 - **HTML5 / CSS3** – structure & styling  
 - **Node.js (planned)** – backend API to serve aggregated articles  
 - **JavaScript** – app logic & interactivity  
+
+---
 
 This project was the **final pitched idea** for a **local democracy hackathon in October 2024**.  
 Hackathon team name: *ReLU* ❤️
